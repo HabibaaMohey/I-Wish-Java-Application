@@ -6,6 +6,7 @@ i-Wish is a fun and interactive desktop application where the user adds friends,
 ![3tier001](https://user-images.githubusercontent.com/132647130/236923757-a9f0e5fa-9351-4e4d-890c-54aa11c96e2f.gif)
 
 
+![091318_0745_DBMSArchite3](https://user-images.githubusercontent.com/132647130/236924038-9c689813-dd8a-499f-90e2-0917699a70c9.jpg)
 
 
 # The client-side
