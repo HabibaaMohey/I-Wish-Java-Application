@@ -2,8 +2,7 @@
 i-Wish is a fun and interactive desktop application where the user adds friends, creates his wish list, checks his friends’ wish lists and makes his friends happy by contribution in buying them items from their wish lists.
 
 
-
-![091318_0745_DBMSArchite3](https://user-images.githubusercontent.com/132647130/236924038-9c689813-dd8a-499f-90e2-0917699a70c9.jpg)
+![The-Client-Server-Model-1024x571](https://user-images.githubusercontent.com/132647130/236925014-060b06d0-66ea-4bfe-99d1-057bf31bf63f.png)
 
 
 # The client-side
