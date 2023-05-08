@@ -5,11 +5,19 @@ i-Wish is a fun and interactive desktop application where the user adds friends,
 
 # The client-side
 -It provides several features. 
+
 -User registration.
--Sign-in. 
+
+-Sign-in.
+
 -Adding or removing friends.
+
 -Accepting or declining friend requests.
+
 -Creating, updating, and deleting wish lists.
--Viewing friends' lists. 
+
+-Viewing friends' lists.
+
 -Contributing to the purchase of items from friends' lists.
+
 -Notifies users when an item has been purchased or received as a gift.
