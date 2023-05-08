@@ -3,6 +3,11 @@ i-Wish is a fun and interactive desktop application where the user adds friends,
 
 ![236897672-2cd249b6-1c8e-4da9-a20f-2bb10310b95f](https://user-images.githubusercontent.com/132647130/236920090-d7e9417e-eb98-4d3c-b5a7-ec7c5aabfb11.png)
 
+![3tier001](https://user-images.githubusercontent.com/132647130/236923757-a9f0e5fa-9351-4e4d-890c-54aa11c96e2f.gif)
+
+
+
+
 # The client-side
 -It provides several features. 
 
@@ -24,3 +29,6 @@ i-Wish is a fun and interactive desktop application where the user adds friends,
 
 # The Server-Side 
 The server-side of the application is responsible for handling client connections, requests, and the management of shared gift items. It also manipulates the database by connecting to it, executing queries, and adding items that users can use to create wish lists. The server is designed to handle a large number of users and ensure the application remains stable and responsive.
+
+# The Database-Side 
+The final layer is the data layer, our database is built on Mysql.
