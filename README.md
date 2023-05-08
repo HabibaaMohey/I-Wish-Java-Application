@@ -21,3 +21,6 @@ i-Wish is a fun and interactive desktop application where the user adds friends,
 7) Contributing to the purchase of items from friends' lists.
 
 8) Notifies users when an item has been purchased or received as a gift.
+
+# The Server-Side 
+The server-side of the application is responsible for handling client connections, requests, and the management of shared gift items. It also manipulates the database by connecting to it, executing queries, and adding items that users can use to create wish lists. The server is designed to handle a large number of users and ensure the application remains stable and responsive.
